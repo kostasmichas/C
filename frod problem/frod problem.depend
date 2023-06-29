@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605117871 source:c:\users\km\desktop\c\frod problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605116875 source:c:\users\km\desktop\c\test\test.c
+	<stdio.h>
+
